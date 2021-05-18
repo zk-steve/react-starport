@@ -1,4 +1,4 @@
-package vue
+package react
 
 import (
 	"embed"
