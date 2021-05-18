@@ -1,8 +1,8 @@
 /* eslint-disable */
-import { ComponentCustomProperties } from 'vue'
+import { ComponentCustomProperties } from 'react'
 import { Store } from 'vuex'
-declare module '*.vue' { 
-  import { defineComponent } from "vue";
+declare module '*.vue' {
+  import { defineComponent } from "react";
   const Component: ReturnType<typeof defineComponent>;
   export default Component;
 }

@@ -18,10 +18,10 @@ module.exports = {
 	},
 
 	extends: [
-		'plugin:vue/vue3-essential',
+		'plugin:react/vue3-essential',
 		'eslint:recommended',
-		'@vue/typescript/recommended',
-		'@vue/prettier',
-		'@vue/prettier/@typescript-eslint',
+		'@react/typescript/recommended',
+		'@react/prettier',
+		'@react/prettier/@typescript-eslint',
 	],
 }

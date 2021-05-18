@@ -22,7 +22,7 @@
 	</div>
 </template>
 <script lang="ts">
-import { defineComponent, PropType } from 'vue'
+import { defineComponent, PropType } from 'react'
 import SpTypeList from '../SpTypeList'
 import SpTypeForm from '../SpTypeForm'
 export default defineComponent({

@@ -1,4 +1,4 @@
-import { App as Application } from 'vue'
+import { App as Application } from 'react'
 import SpTypeList from './SpTypeList.vue'
 
 import { registerComponent } from './../../utils/plugins/index'

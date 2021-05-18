@@ -2,7 +2,7 @@
 	<div contenteditable v-on:keyup="keyUp" v-on:blur="blur" v-on:paste="paste" v-on:delete="del"></div>
 </template>
 <script lang="ts">
-import { defineComponent, PropType } from 'vue'
+import { defineComponent, PropType } from 'react'
 
 export interface SpKeyAreaState {
 	rawContent?: string

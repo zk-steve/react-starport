@@ -80,7 +80,7 @@
 	</div>
 </template>
 <script lang="ts">
-import { defineComponent, PropType } from 'vue'
+import { defineComponent, PropType } from 'react'
 import { SpTypeObject, Field } from '../../utils/interfaces'
 
 export interface SpTypeListState {

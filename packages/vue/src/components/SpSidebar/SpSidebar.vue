@@ -22,7 +22,7 @@
 	</div>
 </template>
 <script lang="ts">
-import { defineComponent } from 'vue'
+import { defineComponent } from 'react'
 //import SpBadgeButton from '../SpBadgeButton'
 export interface SpSidebarState {
 	opened: boolean

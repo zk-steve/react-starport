@@ -20,7 +20,7 @@ body {
 
 <script>
 import './scss/app.scss'
-import '@starport/vue/lib/starport-vue.css'
+import '@starport/react/lib/starport-react.css'
 import Sidebar from './components/Sidebar'
 
 export default {

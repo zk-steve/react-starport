@@ -1,4 +1,4 @@
-import { App as Application } from 'vue'
+import { App as Application } from 'react'
 import SpStatusRPC from './SpStatusRPC.vue'
 
 import { registerComponent } from './../../utils/plugins/index'

@@ -1,6 +1,6 @@
 /* eslint-disable */
 import './styles/app.scss'
-import { App as Application, Plugin } from 'vue'
+import { App as Application, Plugin } from 'react'
 import * as components from './components/index'
 import { setVueInstance } from './utils/config/index'
 import { registerComponent } from './utils/plugins/index'

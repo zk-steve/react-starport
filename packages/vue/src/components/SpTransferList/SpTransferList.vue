@@ -156,7 +156,7 @@
 	</div>
 </template>
 <script lang="ts">
-import { defineComponent } from 'vue'
+import { defineComponent } from 'react'
 import dayjs from 'dayjs'
 import { decode } from 'js-base64'
 import { Transactions, Transaction, TxDecodedPacket } from '../../utils/interfaces'

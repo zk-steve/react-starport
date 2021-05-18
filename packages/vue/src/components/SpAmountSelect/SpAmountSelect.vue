@@ -92,7 +92,7 @@
 	</div>
 </template>
 <script lang="ts">
-import { defineComponent, PropType } from 'vue'
+import { defineComponent, PropType } from 'react'
 import { Amount, ColoredAmount, DenomTraces } from '../../utils/interfaces'
 import { str2rgba } from '../../utils/helpers'
 

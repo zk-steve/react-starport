@@ -175,7 +175,7 @@
 	</div>
 </template>
 <script lang="ts">
-import { defineComponent, PropType } from 'vue'
+import { defineComponent, PropType } from 'react'
 import SpButton from '../SpButton'
 import { Relayer } from '../../utils/interfaces'
 

@@ -17,10 +17,10 @@ The components also require `@starport/vuex` to be installed which is set as a p
 If you want to import the entire library, in your `main.js` file:
 
 ```js
-import { createApp } from 'vue'
-import App from './App.vue'
+import { createApp } from 'react'
+import App from './App.react'
 import store from './store' // See @starport/vuex documentation
-import vueLib from '@starport/vue'
+import vueLib from '@starport/react'
 
 const app = createApp(App)
 app.config.globalProperties._depsLoaded = true
@@ -30,10 +30,10 @@ app.use(store).use(vueLib).mount('#app')
 You can also import only specific components in your `main.js` file:
 
 ```js
-import { createApp } from 'vue'
-import App from './App.vue'
+import { createApp } from 'react'
+import App from './App.react'
 import store from './store' // See @starport/vuex documentation
-import { SpTokenSend } from '@starport/vue'
+import { SpTokenSend } from '@starport/react'
 
 const app = createApp(App)
 app.config.globalProperties._depsLoaded = true

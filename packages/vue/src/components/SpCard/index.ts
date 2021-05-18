@@ -1,4 +1,4 @@
-import { App as Application } from 'vue'
+import { App as Application } from 'react'
 import SpCard from './SpCard.vue'
 
 import { registerComponent } from './../../utils/plugins/index'

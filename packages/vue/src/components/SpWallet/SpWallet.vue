@@ -8,7 +8,7 @@
 	</div>
 </template>
 <script lang="ts">
-import { defineComponent } from 'vue'
+import { defineComponent } from 'react'
 import SpWalletMenu from '../SpWalletMenu'
 import SpButton from '../SpButton'
 import SpWalletCreate from '../SpWalletCreate'

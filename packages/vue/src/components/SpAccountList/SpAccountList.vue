@@ -48,7 +48,7 @@
 	</div>
 </template>
 <script lang="ts">
-import { defineComponent } from 'vue'
+import { defineComponent } from 'react'
 import SpLinkIcon from '../SpLinkIcon'
 import type { Wallet, Account } from '../../utils/interfaces'
 import { copyToClipboard } from '../../utils/helpers'

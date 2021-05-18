@@ -1,4 +1,4 @@
-import { App as Application } from 'vue'
+import { App as Application } from 'react'
 import SpBlockDisplaySmall from './SpBlockDisplaySmall.vue'
 
 import { registerComponent } from './../../utils/plugins/index'

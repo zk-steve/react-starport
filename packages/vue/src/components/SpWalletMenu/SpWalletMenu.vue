@@ -129,7 +129,7 @@
 	</div>
 </template>
 <script lang="ts">
-import { defineComponent } from 'vue'
+import { defineComponent } from 'react'
 //import * as bip39 from 'bip39'
 import SpAccountList from '../SpAccountList'
 import SpButton from '../SpButton'

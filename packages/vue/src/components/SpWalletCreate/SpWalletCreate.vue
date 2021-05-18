@@ -119,7 +119,7 @@
 	</div>
 </template>
 <script lang="ts">
-import { defineComponent, PropType } from 'vue'
+import { defineComponent, PropType } from 'react'
 import * as bip39 from 'bip39'
 import dayjs from 'dayjs'
 import { saveAs } from 'file-saver'

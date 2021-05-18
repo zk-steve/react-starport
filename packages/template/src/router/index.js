@@ -1,7 +1,7 @@
-import { createRouter, createWebHistory } from 'vue-router'
-import Index from '@/views/Index.vue'
-import Types from '@/views/Types.vue'
-import Relayers from '@/views/Relayers.vue'
+import { createRouter, createWebHistory } from 'react-router'
+import Index from '@/views/Index.react'
+import Types from '@/views/Types.react'
+import Relayers from '@/views/Relayers.react'
 
 const routerHistory = createWebHistory()
 const routes = [

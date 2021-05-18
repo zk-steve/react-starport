@@ -13,7 +13,7 @@
 	</router-link>
 </template>
 <script lang="ts">
-import { defineComponent } from 'vue'
+import { defineComponent } from 'react'
 import dayjs from 'dayjs'
 
 export default defineComponent({

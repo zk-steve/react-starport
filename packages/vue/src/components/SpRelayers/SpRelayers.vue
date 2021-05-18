@@ -101,7 +101,7 @@
 	</div>
 </template>
 <script lang="ts">
-import { defineComponent } from 'vue'
+import { defineComponent } from 'react'
 import SpRelayer from '../SpRelayer'
 import { Relayer } from '../../utils/interfaces'
 

@@ -1,4 +1,4 @@
-import { App as Application, Component } from 'vue'
+import { App as Application, Component } from 'react'
 
 export const registerComponent = (instance: Application, component: Component): void => {
 	if (component) {
