@@ -1,3 +1,3 @@
-module github.com/tendermint/vue
+module github.com/sonntuet1997/react-starport
 
 go 1.16
